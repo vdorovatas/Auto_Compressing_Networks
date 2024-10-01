@@ -294,7 +294,6 @@ def main() :
                 total_acc5_list[idx] = total_acc5_list[idx] + acc5[0]
             #########
             step+=1
-            batch_counter += 1
 
         epoch_acc1 = total_acc1/step
         epoch_acc5 = total_acc5/step
