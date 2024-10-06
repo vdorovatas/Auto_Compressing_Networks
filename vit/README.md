@@ -1,3 +1,5 @@
+repo based on: https://github.com/ssuncheol/vision-transformer-pytorch
+
 ## Training on ImageNet:
 
 0. clone repo
