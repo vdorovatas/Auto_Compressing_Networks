@@ -1,2 +1,2 @@
-### original code for paper: *"Auto Compressing Networks"*
+### original code for the paper: *"Auto Compressing Networks"*
 # WIP
