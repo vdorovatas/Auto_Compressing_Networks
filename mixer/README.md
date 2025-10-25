@@ -5,7 +5,7 @@
 3. Train models for ... epochs
     - python3 -u main.py --arch acn --epochs ...
     - python3 -u main.py --arch res --epochs ...
-(if you want to save ckpts adjust lines 110 and 142 of train.py)
+   
+*if you want to save ckpts adjust lines 110 and 142 of train.py
 
-**Acknowledgements**
-base code: https://github.com/omihub777/MLP-Mixer-CIFAR/tree/main
+**Acknowledgements**: base code: https://github.com/omihub777/MLP-Mixer-CIFAR/tree/main
